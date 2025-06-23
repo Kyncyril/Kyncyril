@@ -48,7 +48,7 @@ When I'm not coding, I'm either sketching UI ideas, watching tech breakdowns, or
   AI-powered tool that interprets hand gestures into text and audio to assist the hearing-impaired  
   _Tech Stack: Python · OpenCV · TensorFlow · Streamlit_
 
-  - 🔐 **[Ogatext Backend](https://github.com/kyncyril/ogatext_backend)**  
+- 🔐 **[Ogatext Backend](https://github.com/kyncyril/ogatext_backend)**  
   RESTful API for transcription and user authentication using JWT, SendGrid, and Spring Security  
   _Tech Stack: Spring Boot · MySQL · JWT · SendGrid_
 ---
