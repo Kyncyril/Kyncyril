@@ -12,7 +12,7 @@ When I'm not coding, I'm either sketching UI ideas, watching tech breakdowns, or
 
 - 🎓 Final Year IT Student – Takoradi Technical University  
 - 🧪 ALX Certified – Career Essentials  
-- ☁️ AWS Trainee – AmaliTech Ghana  
+- ☁️ AWS Certified – AmaliTech Ghana  
 
 ---
 
